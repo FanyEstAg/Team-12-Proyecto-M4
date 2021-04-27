@@ -15,7 +15,7 @@ _Dicho proyecto tiene como propósito principal proyectar que tan probable es te
  - Sin riesgo de despido injustificado o por causas de género 
  - Ambiente de trabajo profesional
 
-_Cabe mencionar que, el presente preoyetco es una continuidad directa del módulo anterior ["Procesamiento de Datos con Python"](https://github.com/FanyEstAg/Team-25-Proyecto_M3)_
+_Cabe mencionar que, el presente proyecto es una continuidad directa del módulo anterior ["Procesamiento de Datos con Python"](https://github.com/FanyEstAg/Team-25-Proyecto_M3)_
 
 ## Autoras ✒️
 

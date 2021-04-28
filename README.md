@@ -28,10 +28,9 @@ _Cabe mencionar que, el presente proyecto es una continuidad directa del módulo
 
 * ["Google Colab"](https://colab.research.google.com/)
 * ["Python"](https://www.python.org/)
-* ["Datos del INEGI"](https://www.inegi.org.mx/datos/)
 
 ## Enlaces 🔗
 
 * ["Libreta principal del proyecto"](https://colab.research.google.com/drive/1fFOZCpZlHXGcTIVDfM501-im6wmTOa_W#scrollTo=g9Oeg4bWxXtm)
-* Datasets: 
+* ["Datasets"](https://github.com/FanyEstAg/Team-12-Proyecto-M4/tree/main/DataSets) 
 * Video Explicativo: 

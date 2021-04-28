@@ -33,4 +33,4 @@ _Cabe mencionar que, el presente proyecto es una continuidad directa del módulo
 
 * ["Libreta principal del proyecto"](https://colab.research.google.com/drive/1fFOZCpZlHXGcTIVDfM501-im6wmTOa_W#scrollTo=g9Oeg4bWxXtm)
 * ["Datasets"](https://github.com/FanyEstAg/Team-12-Proyecto-M4/tree/main/DataSets) 
-* Video Explicativo: 
+* ["Video Explicativo"](https://youtu.be/x8cgHScJi8k)
